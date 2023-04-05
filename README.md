@@ -15,3 +15,5 @@ Maya is a biogeochemist who is very nervous when it comes to GitHub.
 
 ## Exercise
 We are collaborating!
+
+We are ready for conflict!
